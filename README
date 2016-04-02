@@ -3,7 +3,10 @@
  fix Google play warning 1/4 2016
  Please migrate your app(s) to OpenSSL 1.02f/1.01r or higher as soon as possible and increment the version number of the upgraded APK. 
  （请将您的应用里OpenSSL升级到1.02f/1.01r或更高版本，并升级APK的版本）
-
+ cocos2dx 3.9 curl 7.40,openssl 1.01l
+ cocos2dx 2.2.6 curl 7.26 openssl 1.01h
+ 图方便的朋友可以去下载我编译好的
+ http://yun.baidu.com/s/1bD6UD4 
 
  OpenSSL 1.1.0-pre5-dev
  -----------

@@ -1,6 +1,12 @@
+ support android build
+ [branch] OpenSSL_1_0_1-stable
+ fix Google play warning 1/4 2016
+ Please migrate your app(s) to OpenSSL 1.02f/1.01r or higher as soon as possible and increment the version number of the upgraded APK. 
+ （请将您的应用里OpenSSL升级到1.02f/1.01r或更高版本，并升级APK的版本）
+
 
  OpenSSL 1.1.0-pre5-dev
-
+ -----------
  Copyright (c) 1998-2016 The OpenSSL Project
  Copyright (c) 1995-1998 Eric A. Young, Tim J. Hudson
  All rights reserved.
